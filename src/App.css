@@ -27,6 +27,9 @@
 .App-link {
   color: #61dafb;
 }
+#itemContainer {
+  background-image: linear-gradient(to right, rgba(218, 166, 22, 0), #d0ff00);
+}
 
 @keyframes App-logo-spin {
   from {
